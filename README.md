@@ -36,7 +36,8 @@ To add your own link to your favorite site, you just need to add a line to the H
   <i class="fab fa-github"></i>
 </a>
 ```
-
+### Name
+Just write your name. As simple as sounds.
 ### Weather
 To display the weather you need to have a free API key, which can be obtained from the [OpenWeatherMap](https://openweathermap.org/api) website.
 
